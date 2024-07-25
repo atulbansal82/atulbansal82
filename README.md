@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Bansal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-![codolio](https://github.com/user-attachments/assets/39877e24-a4de-417a-8c71-aa7ba818df7d)
+![codolio](https://github.com/user-attachments/assets/1236de8f-6356-4f3e-bcc5-73f174770f1b)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
